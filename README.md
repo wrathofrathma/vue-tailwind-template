@@ -1,3 +1,19 @@
+# Overview
+This template is built with the intention of having somewhat a somewhat sane, but full featured template for Vue 3, Typescript, and Tailwind.  
+
+I built everything on top of the default Vue 3 / Typescript template from Vite.
+
+# Features
+- [ ] Vue 3
+- [ ] Vue Router
+- [ ] Pinia
+- [ ] Typescript
+- [ ] Axios
+- [ ] Vite
+- [ ] Tailwindcss
+- [ ] Postcss
+- [ ] @ alias to src/ directory
+
 # Vue 3 + Typescript + Vite
 
 This template should help get you started developing with Vue 3 and Typescript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
