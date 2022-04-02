@@ -1,9 +1,11 @@
 # Overview
-This template is built with the intention of having somewhat a somewhat sane, but full featured template for Vue 3, Typescript, and Tailwind.  
+
+This template is built with the intention of having somewhat a somewhat sane, but full featured template for Vue 3, Typescript, and Tailwind.
 
 I built everything on top of the default Vue 3 / Typescript template from Vite.
 
 # Features
+
 - [ ] Vue 3
 - [ ] Vue Router
 - [ ] Pinia
@@ -13,6 +15,7 @@ I built everything on top of the default Vue 3 / Typescript template from Vite.
 - [ ] Tailwindcss
 - [ ] Postcss
 - [ ] @ alias to src/ directory
+- [ ] Prettier auto formatting on commit
 
 # Vue 3 + Typescript + Vite
 
