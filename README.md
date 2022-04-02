@@ -6,16 +6,18 @@ I built everything on top of the default Vue 3 / Typescript template from Vite.
 
 # Features
 
-- [ ] Vue 3
-- [ ] Vue Router
-- [ ] Pinia
-- [ ] Typescript
+- [x] Vue 3
+- [x] Vue Router
+- [x] Pinia
+- [x] Typescript
+- [x] Vite
+- [x] Tailwindcss
+- [x] Postcss
+- [x] @ alias to src/ directory
+- [x] Prettier auto formatting on commit
+- [x] Composition api
 - [ ] Axios
-- [ ] Vite
-- [ ] Tailwindcss
-- [ ] Postcss
-- [ ] @ alias to src/ directory
-- [ ] Prettier auto formatting on commit
+- [ ] dev server proxy
 
 # Vue 3 + Typescript + Vite
 
